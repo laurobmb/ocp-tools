@@ -24,30 +24,7 @@ RUN \
              ncurses-dev \
              unzip \
              bash \
-             bind-tools \
-             curl \
-             iptraf-ng \
-             iperf3 \
-             iotop \
-             iftop \
-             nload \
-             mtr \
-             jq \
-             nano \
-             netcat-openbsd \
-             net-tools \
-             openssh-client \
-             python3 \
-             sysstat \
-             tcpdump \
-             tshark \
-             strace \
-             inetutils-telnet \
-             nmap \
-             fio \
-             nfs-utils \
-             aws-cli \
-             aws-cli-bash-completion \
+             openssh \
              vim
 
 RUN \
