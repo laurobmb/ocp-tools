@@ -25,6 +25,7 @@ RUN \
              unzip \
              bash \
              openssh \
+             sshpass \
              vim
 
 RUN \
