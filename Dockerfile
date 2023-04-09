@@ -26,6 +26,7 @@ RUN \
              bash \
              openssh \
              sshpass \
+             lftp \
              vim
 
 RUN \
